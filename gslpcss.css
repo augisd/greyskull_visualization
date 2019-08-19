@@ -1,0 +1,13 @@
+svg {
+	border: 1px solid black;
+}
+.grid line {
+	stroke-width: 0.1px;
+	stroke: grey;
+	stroke-opacity: 0.4;
+	stroke-dasharray: 5; 
+}
+
+.grid path{
+	stroke-width: 0;
+}
